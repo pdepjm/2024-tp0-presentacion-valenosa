@@ -87,19 +87,9 @@ Para quien sea que esté leyendo esto, espero que podamos compartir un buen año
 ¡Cualquiera puede jugar! 
 Mové una <!-- BEGIN TURN -->?<!-- END TURN -->.
 
-<!-- BEGIN CHESS BOARD -->
-(Here goes the chess board)
-<!-- END CHESS BOARD -->
-
-**Es tu turno😡 Elegí un movimiento**
-> Te va a mandar a crear un issue; debería ser algo como esto: **`Chess: Move A2 to A1`**
-Si estás desde la app del celu, por algún motivo te va a escribir algo como: **`Chess:+Move+A2+to+A1`**; simplemente **cambiá los "+" por espacios** en el **titulo** y todo debería funcionar 😎
-
-> **¡Podés cambiar lo que quieras de la descripción del issue!**
-
-Por lagún motivo en el repo del classroom no funciona el código.
+> **Por algún motivo en el repo del classroom no funciona el código.
 Si lo quieren probar, subí exactamente los mismos archivos a otro repo, y aparentemente funciona.
-Se los dejo [acá](https://github.com/valenosa/README)😎
+Se los dejo [acá](https://github.com/valenosa/README)😎**
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
