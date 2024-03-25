@@ -97,35 +97,9 @@ Si estás desde la app del celu, por algún motivo te va a escribir algo como: *
 
 > **¡Podés cambiar lo que quieras de la descripción del issue!**
 
-<!-- BEGIN MOVES LIST -->
-(Here goes the list of legal moves)
-<!-- END MOVES LIST -->
-(Es normal que tarde un toque en procesarse. Actualizá la página en 30 segs aprox)
-
-**Pedile a un bro que haga el siguiente movimiento 😈**
-
-
-
-
-<details>
-  <summary>Úlitmos 5 movimientos de este juego</summary>
-<!-- BEGIN LAST MOVES -->
-(Here goes the list of the last 5 moves)
-<!-- END LAST MOVES -->
-</details>
-
-<details>
-  <summary>Usuarios con la mayor cantidad de movimientos</summary>
-<!-- BEGIN TOP MOVES -->
-(Here goes the top 10 most moves)
-<!-- END TOP MOVES -->
-</details>
-
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
->(Hay cosas en inglés por una cuestión estética; definitivamente no es porque me robé el código de: https://github.com/marcizhu/readme-chess)
+Por lagún motivo en el repo del classroom no funciona el código.
+Si lo quieren probar, subí exactamente los mismos archivos a otro repo, y aparentemente funciona.
+Se los dejo [acá](https://github.com/valenosa/README)😎
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
